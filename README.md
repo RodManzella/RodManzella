@@ -7,6 +7,16 @@
 #### - Always eager to learn new technologies
 #### - I am now focusing on learning Algorithms and Data-Structures
 
+# Tech Stack:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Digs-Java" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Digs-html" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="Digs-Java" height="80" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img align="center" alt="Digs-Java" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</div>
+
+
+
 # Ways to contact me:
 
   <a href = "manzellateixeira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
