@@ -9,7 +9,7 @@
 #### - I am currently a Computer Science student:computer:
 #### - Back-end Java developer
 #### - Always eager to learn new technologies
-#### - I am now focusing on learning Algorithms and Data-Structures
+#### - Data Science Enthusiast
 
 <br>
 
