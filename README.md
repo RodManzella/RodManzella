@@ -7,9 +7,7 @@
 # About me:sweat_smile::
 
 #### - I am currently a Computer Science student:computer:
-#### - Back-end Java developer
-#### - Always eager to learn new technologies
-#### - Data Science Enthusiast
+#### - Cybersecurity Enthusiast
 
 <br>
 
