@@ -1,8 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=9E19A9&background=FFFFFF00&width=435&lines=Hey!+Nice+to+have+you+here)](https://git.io/typing-svg)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="cat1" height="250" width="400" src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif"/>
-</div>
 
 # About me:sweat_smile::
 
